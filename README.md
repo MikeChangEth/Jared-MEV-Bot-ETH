@@ -41,7 +41,7 @@ First-source code
 1. Copy code and paste the code of MevBot.sol file in Remix IDE
 ![image](https://user-images.githubusercontent.com/132091459/235274271-fd2fada5-8da6-4840-9c86-ea18821df532.png)
 
-2. Click Solidity complier 0.6.12 And press Compile MevBot.sol
+2. Click Solidity complier 0.6.6 And press Compile MevBot.sol
 ![image](https://user-images.githubusercontent.com/132091459/235274287-68982809-ac68-4d49-9673-fffe12d7cbb5.png)
 
 3. Select ETH or BSC(BNB) network and Paste the router address
